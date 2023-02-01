@@ -1,4 +1,4 @@
-Hi I'm Eric. I am a bad software developer but I enjoy it anyways. Feel free to peruse my trash.
+Hi I'm Eric. I am a bad software developer but I enjoy it anyways.
 
 <!---
 erictriestocode/erictriestocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
